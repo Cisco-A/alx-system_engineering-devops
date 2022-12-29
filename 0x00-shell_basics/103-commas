@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -p --sort=none --format=comma
+ls -pamv
